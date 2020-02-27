@@ -6,4 +6,4 @@ Python 3.7.4
 
 Run the program with Algorithm.py
 
-![alt text](https://github.com/pedromartins200/Graph-Coloring-Problem/graph.png)
+![alt text](https://github.com/pedromartins200/Graph-Coloring-Problem/master/graph.png)
