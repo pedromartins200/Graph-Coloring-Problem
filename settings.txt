@@ -9,4 +9,4 @@ tournament_size: 2
 crossover_method: uniform_crossover
 number_of_colors: 12
 mutation_method: valid_color
-graph: sample_graph2.txt
+graph: samples/sample_graph2.txt
